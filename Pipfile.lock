@@ -833,7 +833,7 @@
                 "sha256:fba85b6cd9c39be262fcd23865652920832b61583de2a2ca907dbd8e8a8c81e5"
             ],
             "index": "pypi",
-            "version": "==6.1"
+            "version": ">=6.5.5"
         },
         "traitlets": {
             "hashes": [
