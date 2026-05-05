@@ -595,7 +595,7 @@
                 "sha256:f217c3954ce5fd88303fc0c317af55d5e0204106d86dea17eb8205700d47dec2"
             ],
             "index": "pypi",
-            "version": "==8.2.0"
+            "version": ">=12.2.0"
         },
         "prometheus-client": {
             "hashes": [
