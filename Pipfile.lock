@@ -223,7 +223,7 @@
                 "sha256:b97d804b1e9b523befed77c48dacec60e6dcb0b5391d57af6a65a312a90648c0"
             ],
             "index": "pypi",
-            "version": "==2.10"
+            "version": ">=3.7"
         },
         "ipykernel": {
             "hashes": [
